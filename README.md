@@ -1,8 +1,3 @@
----
-title: "Site Web"
-github: https://github.com/agnavit
----
-
 # Anthony GNAVIT
 
 ✉️ : gnvt17@gmail.com
