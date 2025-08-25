@@ -1,3 +1,7 @@
+<div style= "display:flex; flex-wrap:wrap; gap:2rem;">
+
+<div style="flex:1; min-width:250px;">
+
 # Anthony GNAVIT
 
 ## Formation
