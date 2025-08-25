@@ -1,2 +1,24 @@
-theme: jekyll-theme-architect
+name:"GNAVIT Anthony"
 title: Curriculum Vitae
+contact:
+  email:"gnvt17@gmail.com"
+  linkedin:"...."
+Skills: |
+  - test1
+  - test2
+  - test3
+experience:
+  - role: ""
+    company: ""
+    duration: ""
+    details: |
+      - test1
+      - test2
+      - test3
+education:
+  - degree:
+    school:
+    duration:
+languages:
+  - francais
+  - anglais
