@@ -2,17 +2,22 @@
 
 ## Formation
 
-**Licence en Informatique**   
-[UNC](https://unc.nc), Nouville
+**Licence Economie et Gestion** (2025 - ....)
+[UNC](https://unc.nc/formations/licence-economie-et-gestion/), Nouville
 
-**Baccalauréat Scientifique**   
+**Licence en Informatique** (2020 - 2022)
+[UNC](https://unc.nc/formations/licence-informatique/), Nouville
+
+**Baccalauréat Scientifique** 
 Spécialité mathématique   
 [Lycée Blaise Pascal](https://blaisepascal.ddec.nc/), Anse Vata
 
 **Brevet des collèges**   
 Collège Champagnat, _Nouméa_
 
-## Expérience professionnelle
+## Expériences professionnelles
+
+**Réceptionniste**(_Juillet. 2022 - Aujourd'hui_), _PK6_
 
 **Magasinier** (_déc. 2019 - janv. 2020_)   
 [L'As de trèfle](https://www.asdetrefle.nc/), _Magenta_   
@@ -26,7 +31,7 @@ Job d'été
 [L'As de trèfle](https://www.asdetrefle.nc/), _Magenta_   
 Job d'été
 
-## Stage
+## Stages
 
 **Concepteur / développeur** (_oct. 2021 - févr. 2022_)   
 Laboratoire ISEA, _Nouméa_   
