@@ -34,7 +34,7 @@
       <p>📧 <a href="">gnvt17@gmail.com</a></p>
       <p>🌐 <a href="https://agnavit.github.io">Portfolio ?</a></p>
       <p>💼 <a href="https://linkedin.com/in/tonprofil">LinkedIn (à mettre)</a></p>
-      <img width="100" height="100" alt="image" src="icons8-github-64.png" />
+      <img alt="logo github" src="icons8-github-64.png" />
       <p><a href="https://github.com/agnavit">GitHub</a></p>
     </div>
 
