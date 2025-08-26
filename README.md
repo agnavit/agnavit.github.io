@@ -31,28 +31,26 @@
     <h2>test</h2>
     
     <div class="contact">
-      <p>📧 <a href="mailto:ton.email@example.com">ton.email@example.com</a></p>
+      <p>📧 <a href="">gnvt17@gmail.com</a></p>
       <p>🌐 <a href="https://agnavit.github.io">Portfolio ?</a></p>
-      <p>💼 <a href="https://linkedin.com/in/tonprofil">LinkedIn</a></p>
-      <p>🐙 <a href="https://github.com/agnavit">GitHub</a></p>
+      <p>💼 <a href="https://linkedin.com/in/tonprofil">LinkedIn (à mettre)</a></p>
+      <img 
+        width="100" 
+        height="100" 
+        alt="image" 
+        src="https://github.com/user-attachments/assets/3dfa6409-f031-4ef8-8708-5a05f9ad5641" />
+      <p><a href="https://github.com/agnavit">GitHub</a></p>
     </div>
+
     
     <h3>Profil</h3>
-    <p>Passionné par le développement web et les nouvelles technologies, je crée des applications performantes et intuitives. Toujours à la recherche de défis stimulants pour progresser et innover.</p>
+    <p>Motivation ?</p>
     
     <h3>Compétences</h3>
     <div class="skills">
-      <span>HTML5</span>
-      <span>CSS3</span>
-      <span>JavaScript</span>
-      <span>React</span>
-      <span>Vue.js</span>
-      <span>Node.js</span>
-      <span>Python</span>
-      <span>Django</span>
-      <span>Docker</span>
-      <span>CI/CD</span>
-      <span>Agile / Scrum</span>
+      <span>Liste</span>
+      <span>des</span>
+      <span>Compé</span>
     </div>
   </div>
   
@@ -62,7 +60,7 @@
   <h3>Expériences professionnelles</h3>
   
   <div class="job">
-    <h4>Développeur Front-End – Entreprise ABC</h4>
+    <h4>à mettre</h4>
     <span class="duration">Jan 2022 – Présent</span>
     <ul>
       <li>Développement d’interfaces web réactives avec React</li>
@@ -72,7 +70,7 @@
   </div>
   
   <div class="job">
-    <h4>Stagiaire Développeur Full-Stack – Startup XYZ</h4>
+    <h4>à mettre</h4>
     <span class="duration">Juin 2021 – Déc 2021</span>
     <ul>
       <li>Création d’une application interne pour la gestion des stocks</li>
@@ -82,12 +80,14 @@
   </div>
   
   <h3>Formation</h3>
-  <p><strong>Licence Informatique</strong> – Université de Exemple (2018 – 2021)</p>
+  <p><strong>Licence Economie et Gestion</strong> – UNC, Nouville (2018 – 2021)</p>
+  <p><strong>Licence Informatique</strong> – UNC, Nouville (2018 – 2021)</p>
+  <p><strong>Baccalauréat Scientifique</strong> – Université de Exemple (2018 – 2021)</p>
   
   <h3>Langues</h3>
   <ul>
     <li>Français (natif)</li>
-    <li>Anglais (courant)</li>
+    <li>Anglais</li>
   </ul>
   
   </div>
