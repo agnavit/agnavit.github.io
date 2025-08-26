@@ -80,8 +80,8 @@
   </div>
   
   <h3>Formation</h3>
-  <p><strong>Licence Economie et Gestion</strong> – UNC, Nouville (2018 – 2021)</p>
-  <p><strong>Licence Informatique</strong> – UNC, Nouville (2018 – 2021)</p>
+  <p><strong>Licence Economie et Gestion</strong> – <a href="https://unc.nc/formations/licence-economie-et-gestion/">UNC</a>, Nouville (2025 – Aujourd'hui)</p>
+  <p><strong>Licence Informatique</strong> – <a href="https://unc.nc/formations/licence-informatique/">UNC</a>, Nouville (2020 – 2022)</p>
   <p><strong>Baccalauréat Scientifique</strong> – Université de Exemple (2018 – 2021)</p>
   
   <h3>Langues</h3>
